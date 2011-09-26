@@ -1,0 +1,8 @@
+Sierpinski Triangle generation by Monte Carlo method. The three corners A,B,C and a random point P 
+is defined. The distance between P and a random selected point A,B or C is halved and P is set equal 
+to the new point and P i plotted.
+
+The program print the generated coordinates to standard output whuch can be directed to a file and plotted 
+by e.g Gnuplot
+
+ 
